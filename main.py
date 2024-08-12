@@ -1,3 +1,3 @@
 print("hello world")
-("jadon hoosier")
-("i like to play videogames and eat lots of food")
+print("jadon hoosier")
+print("i like to play video games and eat lots of food")
